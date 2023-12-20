@@ -1,0 +1,99 @@
+3,2015-01-02,point,not,gun,Shelton,Mason,WA,Tim Elliot,53,male,A,TRUE,FALSE
+4,2015-01-02,point,not,gun,Aloha,Washington,OR,Lewis Lee Lembke,47,male,W,FALSE,FALSE
+5,2015-01-03,move,not,unarmed,Wichita,Sedgwick,KS,John Paul Quintero,23,male,H,FALSE,FALSE
+8,2015-01-04,point,not,replica,San Francisco,San Francisco,CA,Matthew Hoffman,32,male,W,TRUE,FALSE
+9,2015-01-04,point,not,other,Evans,Weld,CO,Michael Rodriguez,39,male,H,FALSE,FALSE
+11,2015-01-04,attack,not,gun,Guthrie,Logan,OK,Kenneth Joe Brown,18,male,W,FALSE,FALSE
+13,2015-01-05,shoot,car,gun,Chandler,Maricopa,AZ,Kenneth Arnold Buck,22,male,H,FALSE,FALSE
+15,2015-01-06,point,not,gun,Assaria,Saline,KS,Brock Nichols,35,male,W,FALSE,FALSE
+16,2015-01-06,accident,not,unarmed,Burlington,Des Moines,IA,Autumn Steele,34,female,W,FALSE,TRUE
+17,2015-01-06,point,not,replica,Knoxville,Allegheny,PA,Leslie Sapp III,47,male,B,FALSE,FALSE
+19,2015-01-06,attack,not,knife,Stockton,San Joaquin,CA,Patrick Wetter,25,male,W,FALSE,FALSE
+21,2015-01-07,point,not,gun,Freeport,Brazoria,TX,Ron Sneed,31,male,B,FALSE,FALSE
+22,2015-01-07,threat,not,knife,Columbus,Franklin,OH,Hashim Hanif Ibn Abdul-Rasheed,41,male,B,TRUE,FALSE
+25,2015-01-07,point,car,gun,Des Moines,Polk,IA,Nicholas Ryan Brickman,30,male,W,FALSE,FALSE
+27,2015-01-07,shoot,foot,gun,New Orleans,Orleans,LA,Omarr Julian Maximillian Jackson,37,male,B,FALSE,TRUE
+29,2015-01-08,undetermined,not,,Huntley,Yellowstone,MT,Loren Simpson,28,male,W,FALSE,FALSE
+32,2015-01-08,attack,not,blunt_object,Salt Lake City,Salt Lake,UT,James Dudley Barker,42,male,W,FALSE,TRUE
+36,2015-01-08,attack,not,unarmed,Strong,Union,AR,Artago Damon Howard,36,male,B,FALSE,FALSE
+37,2015-01-08,shoot,not,gun,Syracuse,Davis,UT,Thomas Hamby,49,male,W,FALSE,TRUE
+38,2015-01-09,shoot,not,gun,England,Lonoke,AR,Jimmy Foreman,71,male,W,FALSE,FALSE
+325,2015-01-09,point,not,gun,El Paso,El Paso,TX,Andy Martinez,33,male,H,FALSE,FALSE
+42,2015-01-11,point,not,gun,Arcola,Douglas,IL,Tommy Smith,39,male,W,TRUE,FALSE
+43,2015-01-11,point,not,gun,South Gate,Los Angeles,CA,Brian Barbosa,23,male,H,FALSE,FALSE
+45,2015-01-11,point,foot,gun,North Las Vegas,Clark,NV,Salvador Figueroa,29,male,H,FALSE,FALSE
+46,2015-01-13,shoot,foot,gun,Albuquerque,Bernalillo,NM,John Edward O'Keefe,34,male,W,FALSE,TRUE
+48,2015-01-13,threat,not,knife,Jourdanton,Atascosa,TX,Richard McClendon,43,male,W,TRUE,FALSE
+49,2015-01-14,attack,not,,St. Paul,Ramsey,MN,Marcus Golden,24,male,B,FALSE,FALSE
+50,2015-01-14,attack,not,,Franklin County,Franklin,MO,Michael Goebel,29,male,W,FALSE,FALSE
+51,2015-01-14,shoot,not,gun,Chesapeake,Chesapeake City,VA,Mario Jordan,34,male,B,TRUE,FALSE
+52,2015-01-14,attack,not,knife,Old Bridge,Middlesex,NJ,Talbot Schroeder,75,male,W,FALSE,FALSE
+54,2015-01-14,point,not,gun,Lake Jackson,Brazoria,TX,Robert Edwards,68,male,W,FALSE,FALSE
+55,2015-01-14,attack,not,knife,Draper,Salt Lake,UT,Jeffrey R. Nielson,34,male,W,FALSE,TRUE
+56,2015-01-15,shoot,foot,gun,Indianapolis,Marion,IN,Donte Sowell,27,male,B,FALSE,FALSE
+57,2015-01-15,point,not,gun,Aurora,Arapahoe,CO,Kavonda Earl Payton,39,male,B,FALSE,FALSE
+60,2015-01-15,point,not,gun,Bloomington,Hennepin,MN,Quincy Reed Reindl,24,male,W,TRUE,FALSE
+63,2015-01-15,threat,not,knife,Fairfield,Solano,CA,Jose Ceja,36,male,H,TRUE,FALSE
+64,2015-01-15,point,not,gun,Evangeline Parish,Evangeline,LA,Nathan Massey,33,male,W,FALSE,FALSE
+67,2015-01-16,shoot,car,gun,Mabank,Van Zandt,TX,Scott Hall,41,male,W,FALSE,FALSE
+68,2015-01-16,threat,not,knife,Fremont,Alameda,CA,Zaki Shinwary,48,male,O,FALSE,FALSE
+74,2015-01-17,point,foot,gun,Muskogee,Muskogee,OK,Terence Walker,21,male,B,FALSE,TRUE
+75,2015-01-17,point,not,gun,Los Angeles,Los Angeles,CA,Pablo Meza,24,male,H,FALSE,FALSE
+78,2015-01-17,attack,not,knife,Fort Worth,Tarrant,TX,Daniel Brumley,27,male,H,FALSE,FALSE
+80,2015-01-18,point,not,gun,Maricopa,Pinal,AZ,Jonathan Guillory,32,male,W,TRUE,FALSE
+83,2015-01-18,point,not,gun,Gunlock,Magoffin,KY,Carter Castle,67,male,W,TRUE,FALSE
+84,2015-01-19,attack,not,knife,Weymouth,Norfolk,MA,Paul Campbell,49,male,W,FALSE,FALSE
+85,2015-01-20,threat,car,,Scottsdale,Maricopa,AZ,Dewayne Carr,42,male,B,FALSE,FALSE
+86,2015-01-21,shoot,not,gun,Hemet,Riverside,CA,Todd Allen Hodge,36,male,W,FALSE,FALSE
+88,2015-01-21,shoot,foot,gun,Chapeno,Starr,TX,Miguel Angel de Santos-Rodriguez,36,male,H,FALSE,FALSE
+90,2015-01-21,point,not,gun,St. Louis,St. Louis City,MO,Isaac Holmes,19,male,B,FALSE,FALSE
+98,2015-01-21,shoot,not,gun,Derry,Rockingham,NH,Andrew Toto,54,male,W,TRUE,FALSE
+99,2015-01-22,point,car,replica,Sierra Blanca,Hudspeth,TX,Tiano Meton,25,male,B,FALSE,FALSE
+100,2015-01-22,threat,not,knife,Longview,Gregg,TX,Kristiana Coignard,17,female,W,TRUE,FALSE
+101,2015-01-23,threat,not,,Fort Lauderdale,Broward,FL,Demaris Turner,29,male,B,FALSE,FALSE
+102,2015-01-23,threat,not,knife,Levelland,Hockley,TX,Jose Antonio Espinoza Ruiz,56,male,H,FALSE,FALSE
+336,2015-01-23,point,not,gun,Austin,Travis,TX,Robert Francis Mesch,61,male,W,TRUE,FALSE
+105,2015-01-24,shoot,not,gun,Rexburg,Madison,ID,Daryl Myler,45,male,W,FALSE,FALSE
+107,2015-01-24,threat,not,knife,Baltimore,Baltimore City,MD,Darin Hutchins,26,male,B,TRUE,FALSE
+341,2015-01-24,shoot,not,gun,Fort Worth,Tarrant,TX,Wendell King,40,male,W,FALSE,FALSE
+108,2015-01-25,shoot,car,gun,Pueblo,Pueblo,CO,Orlando Jude Lopez,26,male,H,FALSE,FALSE
+110,2015-01-25,point,not,gun,Winslow,Camden,NJ,William Campbell,59,male,,FALSE,FALSE
+20,2015-01-26,threat,not,vehicle,Denver,Denver,CO,Jessie Hernandez,17,female,H,FALSE,FALSE
+324,2015-01-26,shoot,not,gun,New Hope,Hennepin,MN,Raymond Kmetz,68,male,W,TRUE,FALSE
+352,2015-01-26,flee,car,unarmed,Tahoka,Lynn,TX,Joshua Omar Garcia,24,male,H,FALSE,FALSE
+353,2015-01-26,threat,not,knife,Wasco,Kern,CA,David Garcia,34,male,H,TRUE,FALSE
+111,2015-01-27,attack,not,knife,Omaha,Douglas,NE,Tiffany Terry,39,female,W,TRUE,FALSE
+348,2015-01-27,threat,not,,Phoenix,Maricopa,AZ,Nicolas Leland Tewa,26,male,N,FALSE,FALSE
+349,2015-01-27,shoot,not,gun,Morenci,Greenlee,AZ,Chris Ingram,29,male,W,FALSE,FALSE
+350,2015-01-27,shoot,not,gun,Columbus,Franklin,OH,Jermonte Fletcher,33,male,B,FALSE,FALSE
+345,2015-01-28,shoot,not,gun,Sunset,Montague,TX,Alan Lance Alverson,45,male,W,FALSE,FALSE
+346,2015-01-28,attack,not,blunt_object,Stockton,San Joaquin,CA,Matautu Nuu,35,male,A,TRUE,FALSE
+347,2015-01-28,shoot,not,gun,Rosenberg,Fort Bend,TX,Cody Karasek,26,male,W,FALSE,FALSE
+112,2015-01-29,shoot,not,gun,Wyoming,Kent,MI,Alan James,31,male,W,TRUE,FALSE
+342,2015-01-29,move,foot,unarmed,Stillwater,Payne,OK,Ralph Willis,42,male,W,FALSE,FALSE
+113,2015-01-30,point,foot,gun,Billings,Yellowstone,MT,John Barry Marshall,48,male,W,FALSE,FALSE
+338,2015-01-31,point,not,gun,Houston,Harris,TX,Victor Manuel Reyes,31,male,H,FALSE,FALSE
+339,2015-01-31,threat,not,knife,Randallstown,Baltimore,MD,Edward Donnell Bright Sr.,54,male,B,TRUE,FALSE
+114,2015-02-02,flee,foot,unarmed,Hummelstown,Dauphin,PA,David Kassick,59,male,W,FALSE,FALSE
+115,2015-02-02,shoot,not,gun,Apple Valley,San Bernardino,CA,Francis Murphy Rose III,42,male,W,TRUE,FALSE
+528,2015-02-02,shoot,not,gun,Bay City,Bay,MI,Jacob Haglund,17,male,W,FALSE,FALSE
+117,2015-02-03,point,foot,gun,St. Louis,St. Louis,MO,Ledarius D. Williams,23,male,B,FALSE,FALSE
+118,2015-02-03,point,car,gun,Emeryville,Alameda,CA,Yuvette Henderson,38,female,B,FALSE,FALSE
+119,2015-02-03,threat,not,knife,Antioch,Contra Costa,CA,Dewayne Deshawn Ward Jr.,29,male,B,TRUE,FALSE
+120,2015-02-03,point,not,gun,Douglas,Coffee,GA,Anthony Purvis,45,male,W,TRUE,FALSE
+116,2015-02-04,attack,not,unarmed,Tallahassee,Leon,FL,Jeremy Lett,28,male,B,FALSE,FALSE
+123,2015-02-04,point,not,gun,Orlando,Orange,FL,Izzy Colon,37,male,H,FALSE,FALSE
+124,2015-02-04,point,car,gun,Tempe,Maricopa,AZ,Salvador Muna,28,male,H,FALSE,FALSE
+125,2015-02-04,accident,not,unarmed,Tempe,Maricopa,AZ,Joaquin Hernandez,28,male,H,FALSE,FALSE
+126,2015-02-04,point,car,gun,Lorena,McLennan,TX,Jimmy Ray Robinson Jr. Jr.,51,male,B,FALSE,FALSE
+127,2015-02-04,threat,not,knife,Memphis,Shelby,TN,Markell Atkins,36,male,B,FALSE,FALSE
+128,2015-02-05,flee,car,replica,Chino,San Bernardino,CA,Paul Alfred Eugene Johnson,59,male,W,FALSE,FALSE
+129,2015-02-06,shoot,not,gun,Oklahoma City,Oklahoma,OK,Herbert Hill,25,male,B,FALSE,FALSE
+532,2015-02-07,point,not,replica,Calimesa,Riverside,CA,John Sawyer,26,male,W,FALSE,FALSE
+554,2015-02-07,point,not,gun,Gastonia,Gaston,NC,James Allen,74,male,B,FALSE,FALSE
+131,2015-02-08,shoot,car,gun,Anchorage,Anchorage,AK,John Martin Whittaker,33,male,W,FALSE,FALSE
+132,2015-02-08,shoot,not,gun,Austin,Travis,TX,Sawyer Flache,27,male,W,FALSE,FALSE
+133,2015-02-08,shoot,not,gun,New City,Rockland,NY,Vincent Cordaro,57,male,W,TRUE,FALSE
+134,2015-02-08,shoot,not,gun,Orange County,Orange,FL,Joseph Paffen,46,male,W,FALSE,FALSE
+135,2015-02-08,point,not,gun,Nocona,Montague,TX,Larry Hostetter,41,male,W,FALSE,FALSE
+136,2015-02-09,point,not,gun,Smyrna,Aroostook,ME,Kenneth Kreyssig,61,male,W,TRUE,FALSE
